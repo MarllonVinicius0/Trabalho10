@@ -15,6 +15,9 @@
 </p>
 
 ## Abrir e rodar o projeto
+Pré requisito : GCC
+
+Caso não possua GCC Clique [aqui](https://terminaldeinformacao.com/2015/10/08/como-instalar-e-configurar-o-gcc-no-windows-mingw/) e confira como baixar
 
 Para rodar este código o usuário basta somente copiar ou baixar o arquivo [TR3_536828.c](https://github.com/MarllonVinicius0/Trabalho10/blob/main/TR3_536828.c) e logo após compilar e rodar o código em algum compilador que comporte a linguagem C, Seja ele online ou não. E ainda podendo roda-lo em um terminal se assim o usuário o preferir. 
 
